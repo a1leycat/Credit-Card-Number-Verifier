@@ -1,10 +1,10 @@
-# Credit-Card-Number-Verifier (School Project)
+# Credit-Card-Number-Verifier (School Project):
 This program verifies whether a credit card number is valid or not using the Luhn algorithm.
 
-Requirements
+Requirements:
 This program requires a C++ compiler to run.
 
-Usage
+Usage:
 Compile the program using your C++ compiler of choice.
 Run the compiled executable file.
 Enter the credit card number you wish to verify when prompted.
@@ -19,7 +19,7 @@ If the sum is a multiple of 10, the credit card number is valid.
 Limitations
 This program can only validate credit card numbers that are between 13 and 16 digits long.
 
-Future Improvements
+Future Improvements:
 Future improvements to this program could include:
 
 Adding support for more credit card types
